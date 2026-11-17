@@ -88,3 +88,4 @@ The mobile app support task described above was completed by the [synthstack.ai]
 ## License
 
 MIT. MP3 encoding by [@breezystack/lamejs](https://www.npmjs.com/package/@breezystack/lamejs) (LGPL), bundled unmodified.
+
